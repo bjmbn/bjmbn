@@ -10,8 +10,6 @@ Please do not hesitate reach out to me through these channels.
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
 
----
-
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/48/000000/azure-1.png" />][azure]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
@@ -23,7 +21,7 @@ Please do not hesitate reach out to me through these channels.
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 
----
+<br />
 
 <img align="left" alt="bjmbn's github stats" src="https://github-readme-stats.vercel.app/api?username=bjmbn&count_private=true" />
 
