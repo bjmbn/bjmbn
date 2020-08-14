@@ -25,7 +25,7 @@ Please do not hesitate reach out to me through these channels.
 
 ---
 
-![BJMBN's github stats](https://github-readme-stats.vercel.app/api?username=bjmbn&count_private=true)
+<img align="left" alt="bjmbn's github stats" src="https://github-readme-stats.vercel.app/api?username=bjmbn&count_private=true" />
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: https://img.icons8.com/ios-glyphs/30/000000/linkedin.png (linkedin icon with padding)
