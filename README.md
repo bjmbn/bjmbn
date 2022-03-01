@@ -1,4 +1,4 @@
-### Hi there 👋. Benn John Maxel here aka [@bjmbn][3].
+### Hi there 👋. Exx Navarro here aka [@bjmbn][3].
 
 - 🔭 I’m currently the Senior Developer for the Smart Automation team in Finance Operations.
 - 👯 I’m looking to start contributing to other projects within Shell.
@@ -12,6 +12,7 @@ Please do not hesitate reach out to me through these channels.
 [![alt text][3.1]][3]
 
 ### Languages and Tools:
+[<img align="left" alt="PowerShell" width="26px" src="https://logodix.com/logo/335913.png" />][powershell]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/48/000000/azure-1.png" />][azure]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png"/>][git]
@@ -48,6 +49,7 @@ Please do not hesitate reach out to me through these channels.
 [nodejs]: https://nodejs.org/en/
 [terminal]: https://www.iterm2.com/
 [xandawapps]: https://xandawapps.com/
+[powershell]: https://docs.microsoft.com/en-us/powershell/?view=powershell-7.2
 
 <!--
 **exxmen/exxmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
