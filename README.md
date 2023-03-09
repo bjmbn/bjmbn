@@ -1,6 +1,6 @@
 ### Hi there 👋. Exx Navarro here aka [@bjmbn][3].
 
-- 🔭 I’m currently the Senior Developer for the Smart Automation team in Finance Operations.
+- 🔭 I’m currently a Senior Software Engineer in the Smart Automation team in Finance Operations.
 - 👯 I’m looking to start contributing to other projects within Shell.
 - 💬 Ask me about Robotic Process Automation, NICE, BluePrism and some Azure products (Logic Apps, Azure Storage, etc.)
 - ⚡ Fun fact: Please do not ask me how I got my nickname.
